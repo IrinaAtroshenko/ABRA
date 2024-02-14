@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ABRA.iml" filepath="$PROJECT_DIR$/.idea/ABRA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/BDD.iml" filepath="$PROJECT_DIR$/.idea/BDD.iml" />
     </modules>
   </component>
 </project>
