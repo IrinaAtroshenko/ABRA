@@ -1,0 +1,10 @@
+[
+  "test_login_page.py::test_login_with_correct_data",
+  "test_login_page.py::test_login_with_empty_email",
+  "test_login_page.py::test_login_with_empty_password",
+  "test_login_page.py::test_login_with_incorrect_data",
+  "test_login_page.py::test_login_with_incorrect_password",
+  "test_login_page.py::test_login_with_invalid_email",
+  "test_login_page.py::test_login_with_unregistered_email",
+  "tests_login_page.py::test_correct_login"
+]

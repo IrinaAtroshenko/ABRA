@@ -1,0 +1,10 @@
+{
+  "tests_login_page.py::test_correct_login": true,
+  "test_login_page.py::test_login_with_correct_data": true,
+  "test_login_page.py::test_login_with_incorrect_data": true,
+  "test_login_page.py::test_login_with_incorrect_password": true,
+  "test_login_page.py::test_login_with_unregistered_email": true,
+  "test_login_page.py::test_login_with_empty_password": true,
+  "test_login_page.py::test_login_with_empty_email": true,
+  "test_login_page.py::test_login_with_invalid_email": true
+}
